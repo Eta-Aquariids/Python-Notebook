@@ -2,7 +2,7 @@
 
 > 约定：`import numpy as np`
 >
-> 🏠 [返回笔记索引](README.md) ｜ 相关：[SciPy 速查表](scipy_basics.md) · [pandas 速查表](pandas_basics.md)
+> 🏠 [返回笔记索引](README.md) ｜ 相关：[SciPy 速查表](scipy_basics.md) · [pandas 速查表](pandas_basics.md) · [Matplotlib 速查表](matplotlib_basics.md)
 
 ## 目录
 

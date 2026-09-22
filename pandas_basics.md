@@ -3,7 +3,7 @@
 > 约定：`import pandas as pd`，`import numpy as np`
 > 示例基于 pandas 2.x（含 3.0 的 Copy-on-Write 行为）
 >
-> 🏠 [返回笔记索引](README.md) ｜ 相关：[NumPy 速查表](numpy_basics.md) · [SciPy 速查表](scipy_basics.md)
+> 🏠 [返回笔记索引](README.md) ｜ 相关：[NumPy 速查表](numpy_basics.md) · [SciPy 速查表](scipy_basics.md) · [Matplotlib 速查表](matplotlib_basics.md)
 
 ## 目录
 

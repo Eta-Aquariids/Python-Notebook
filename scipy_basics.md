@@ -2,7 +2,7 @@
 
 > 约定：`import numpy as np`，`import scipy as sp`
 >
-> 🏠 [返回笔记索引](README.md) ｜ 相关：[NumPy 速查表](numpy_basics.md) · [pandas 速查表](pandas_basics.md)
+> 🏠 [返回笔记索引](README.md) ｜ 相关：[NumPy 速查表](numpy_basics.md) · [pandas 速查表](pandas_basics.md) · [Matplotlib 速查表](matplotlib_basics.md)
 
 SciPy 是建立在 NumPy 之上的科学计算库，按子模块组织功能。绝大多数模块以**接收并返回 NumPy 数组**的方式工作。
 
